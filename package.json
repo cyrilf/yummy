@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@marinda/gatsby-theme-recipes": "^*",
-    "gatsby": "^4.25.7",
+    "gatsby": "^5.11.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1"
   },
